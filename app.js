@@ -46,7 +46,7 @@ chrisitna.emit('name'); */
 
 
 //Tutorial - 3
-/* var readline = require('readline');
+var readline = require('readline');
 var rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
@@ -82,6 +82,6 @@ rl.question(
 rl.on('close', () => {
     console.log('Correct!');
 })
-rl.on('close', function () {
+/* rl.on('close', function () {
     console.log('Correct!');
 }) */
