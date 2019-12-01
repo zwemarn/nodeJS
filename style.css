@@ -1,0 +1,13 @@
+body {
+    background: lightblue;
+}
+
+body h1 { 
+    font-size: 35px;
+    color: yellow;
+}
+
+.title {
+    font-size: 50px;
+    color: red
+}
